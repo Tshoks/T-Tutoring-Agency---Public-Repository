@@ -10,6 +10,17 @@ In this project we learn first the basics of Java, with the following aspects:
 
 # Objective of this project
 
-Students are to understand the following:
+Students are to understand and apply the following:
   1. Java coding
-  2. Testing with Java and Selenium
+  2. The use of code versioning with Git and GitHub
+  3. Testing with Java and Selenium
+
+# Tools used for this project
+  1. Notepad and Command Prompt
+  2. IntelliJ IDEA IDE
+  3. Git
+  4. JAVA, Java-JDK, Java-JRE
+
+# Technologies used for this project
+  1. Java Standard Edition
+  2. Selenium
