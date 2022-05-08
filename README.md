@@ -6,7 +6,7 @@ In this project we learn first the basics of Java, with the following aspects:
   3. Part 3: Data Structures & Algorithms
   
  And last but not least, we integrate to our Java knowledge the knowledge of testing with Selenium as below:
-  4. Part 4: Testing & Selenium Framework
+  1. Part 4: Testing & Selenium Framework
 
 # Objective of this project
 
