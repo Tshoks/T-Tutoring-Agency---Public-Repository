@@ -1,12 +1,13 @@
-# T-Tutoring-Agency: Learning Java Basics And Integrating Selenium
+# T-Tutoring-Agency: Learning Java Basics And Integrating Selenium, Rest-Assured And TestNG
 
-In this project we learn first the basics of Java, with the following aspects:
-  1. Part 1: Fundamentals of Programming
-  2. Part 2: Object Oriented Programming
-  3. Part 3: Data Structures & Algorithms
+In this project, we learn first the basics of Java, with the following aspects:
+  Part 1: Fundamentals of Programming
+  Part 2: Object Oriented Programming
+  Part 3: Data Structures & Algorithms
   
- And last but not least, we integrate to our Java knowledge the knowledge of testing with Selenium as below:
-  1. Part 4: Testing & Selenium Framework
+ Last but not least, we integrate into our Java knowledge the knowledge of testing with Selenium and Rest-Assured as below:
+  Part 4: Web Testing With Selenium Framework And TestNG
+  Part 5: API Testing With Rest-Assured And TestNG
 
 # Objective of this project
 
